@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Data Science**
 
+- ✨ Worked on **Frontend**
+
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Science**
