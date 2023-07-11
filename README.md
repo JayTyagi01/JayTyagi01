@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytyagi01&label=Profile%20views&color=0e75b6&style=flat" alt="jaytyagi01" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **React**
 
 - ✨ Worked on **Frontend**
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m looking to collaborate on **React**
 
 - 📫 How to reach me **jaytyagi08@gmail.com**
 
