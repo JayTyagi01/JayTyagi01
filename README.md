@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **React**
 
-- ✨ Worked on **Frontend**
+- ✨ Worked on **Full-Stack**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MongoDB**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **MERN**
 
 - 📫 How to reach me **jaytyagi08@gmail.com**
 
